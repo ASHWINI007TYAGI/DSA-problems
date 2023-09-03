@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=power
+comment1.params=argh
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ n
+comment2.target=int\ printpow(int,\ int)
+numComments=3

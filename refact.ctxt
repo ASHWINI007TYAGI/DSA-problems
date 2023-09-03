@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=refact
+comment1.params=argh
+comment1.target=void\ main(java.lang.String[])
+comment2.params=d
+comment2.target=int\ printfact(int)
+numComments=3
